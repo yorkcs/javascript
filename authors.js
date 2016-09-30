@@ -1,8 +1,8 @@
 <script>
 var favAuthors = [  'Octavia Butler',
-				    'Neil Gaiman',
-				    'Milan Kundera'
-				 ];
+	            'Neil Gaiman',
+	            'Milan Kundera'
+		 ];
 </script>
 
 <script>
